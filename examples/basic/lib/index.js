@@ -1,3 +1,3 @@
-import nukyll from 'nukyll'
+import moduleTest from '@evanrlong/module-test'
 
-nukyll.printMsg()
+moduleTest.printMsg()
